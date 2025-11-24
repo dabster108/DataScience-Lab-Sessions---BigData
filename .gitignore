@@ -1,0 +1,13 @@
+# Ignore Python virtual environment
+pyspark_env/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore env files with secrets
+.env
+
