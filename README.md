@@ -1,6 +1,4 @@
-Got it! Here's a complete `README.md` you can copy directly to GitHub for your **Big Data Lab Sessions** project:
 
-````markdown
 # Big Data Lab Sessions
 
 This repository contains lab exercises and assignments for **Big Data Lab** sessions. The main focus is on **PySpark** for processing large datasets efficiently using Python.
