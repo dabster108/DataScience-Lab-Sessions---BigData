@@ -30,10 +30,6 @@ Before starting, ensure your system has the following installed:
 **🐍 Using Anaconda Navigator (Recommended)**
 
 1️⃣ **Install Anaconda**
-- Download from [Anaconda.com](https://www.anaconda.com/products/distribution)
-- Follow the installation wizard for your operating system
-
-![Anaconda Navigator](https://docs.anaconda.com/navigator/img/nav-defaults.png)
 
 2️⃣ **Create Environment via Anaconda Navigator**
 - Open Anaconda Navigator
